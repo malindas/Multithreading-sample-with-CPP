@@ -1,0 +1,23 @@
+this is my main thread ID:: 2752
+		 Updating Global variables... (Thread 1)
+The Value of X is: 1 (Thread 2)
+		 Updating Global variables... (Thread 1)
+The Value of X is: 2 (Thread 2)
+		 Updating Global variables... (Thread 1)
+The Value of X is: 3 (Thread 2)
+		 Updating Global variables... (Thread 1)
+The Value of X is: 4 (Thread 2)
+		 Updating Global variables... (Thread 1)
+The Value of X is: 5 (Thread 2)
+		 Updating Global variables... (Thread 1)
+The Value of X is: 6 (Thread 2)
+		 Updating Global variables... (Thread 1)
+The Value of X is: 7 (Thread 2)
+		 Updating Global variables... (Thread 1)
+The Value of X is: 8 (Thread 2)
+		 Updating Global variables... (Thread 1)
+The Value of X is: 9 (Thread 2)
+		 Updating Global variables... (Thread 1)
+this is thread 1 (joining back to Main thread) ID:: 2388
+this is thread 2 (joining back to Main thread) ID:: 13500
+this is my main thread ID:: 2752
